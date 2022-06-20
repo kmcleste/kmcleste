@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**kmcleste/kmcleste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on:
+  - Building highly-scalable cloud architecture
+  - ML search systems
+  - Chatbots
+- 🌱 I’m currently learning:
+  - Cloud automation with Terraform and CI/CD pipelines
+  - Long-form doc classification
+- 📫 How to reach me:
+  - LinkedIn: https://www.linkedin.com/in/kyle-mclester/
+  - Email: kyle.mclester@gmail.com
+- ⚡ Fun fact:
+  - I'm also pursuing my Masters degree in Data Science at the University of North Carolina at Charlotte.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmcleste&theme=vue-dark&show_icons=true)
