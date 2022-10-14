@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-  - Building highly-scalable cloud architecture
+  - API Development
+  - Scalable Cloud Infrastructure
   - ML search systems
   - Chatbots
-- 🌱 I’m currently learning:
-  - Cloud automation with Terraform and CI/CD pipelines
-  - Long-form doc classification
 - 📫 How to reach me:
   - LinkedIn: https://www.linkedin.com/in/kyle-mclester/
   - Email: kyle.mclester@gmail.com
